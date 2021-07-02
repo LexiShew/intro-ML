@@ -1,0 +1,16 @@
+** COLLABORATORS **
+
+Name: Lexi Shewchuk (ashewc01)
+
+Time:
+   Total: 5 hours
+       Problem 1: 30 minutes 
+       Problem 2: 3.5 hours (made some dumb mistakes)
+       Problem 3: 1 hour
+
+Help:
+        I went to Professor Allen's office hours, where he answered all my 
+    questions and helped me figure out a logic error in my code. Most of the
+    time I spent was figuring out Python, not really conceptual gaps. I also 
+    looked at the code demo for polynomial regression and at the documentation
+    for ridge regression. 

@@ -1,0 +1,16 @@
+** COLLABORATORS **
+
+Name: Lexi Shewchuk (ashewc01)
+
+Time:
+   Total: 10 hours
+
+Help:
+      While I didn't go to office hours specifically for this assignment, I recieved 
+   help by attending Professor Allen's live sessions and looking at other students' Piazza
+   questions.
+
+Confusion:
+      I used the documentation for Perceptrons, Classifier CVs, ROC, and AUC for ROC, and
+   I had to look up some pandas functions and some Python syntax stuff. I had some trouble
+   figuring out some plotting stuff, but I think I got it in the end.

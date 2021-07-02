@@ -1,0 +1,11 @@
+                            COLLABORATORS
+
+Name: Lexi Shewchuk (ashewc01)
+
+Time: 6 hours total
+   - 30 minutes on Problem 1
+   - 5.5 hours on Problem 2 (very steep Python learning curve lol) 
+
+Help:
+   - I went to Sejal's office hours, she answered all my logistical
+     and clarification questions
