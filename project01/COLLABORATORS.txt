@@ -1,0 +1,16 @@
+** COLLABORATORS **
+
+Name: Lexi Shewchuk (ashewc01)
+
+Time: 15 hours
+
+Help:
+    For help, I looked at Prof. Allen's code demos and lecture notes. These 
+    were super helpful for conceptual understanding. I also looked at other
+    students' questions on Piazza, which were super helpful.
+
+    While I feel like I was able to play around with hyperparameters and 
+    different feature transformations, it took such a long time to actually
+    get results -- training one group of models would sometimes take 10 minutes
+    or more, and that really slowed me down.
+        
