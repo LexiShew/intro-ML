@@ -1,0 +1,15 @@
+***   COLLABORATORS   ***
+Name: Lexi Shewchuk (ashewc01)
+
+ID: 1331654
+
+Time: 4 hours
+
+Resources:
+    I went to Professor Allen's office hours to ask about the underlying
+    differences between the models, I looked at other students' questions
+    on Piazza. I also looked at Prof. Allen's code demos and lecture notes.
+
+Help:
+    I mostly had to wrap my head around the calculations and weight
+    adjustments for the solvers and activation functions.
