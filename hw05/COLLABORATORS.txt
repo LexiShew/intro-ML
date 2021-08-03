@@ -3,6 +3,13 @@ Name: Lexi Shewchuk (ashewc01)
 
 ID: 1331654
 
+Time: 5 hours
+
 Resources:
+I used the linked sklearn documentation, Professor Allen's code demos and 
+lectures, the readings from the decision tree week, and other students' 
+questions and responses on Piazza.
 
 Difficulties:
+It took me a while to actually figure out how to code the entrpies and 
+probabilites, and to extend what we had covered in lecture to 3-class data.
