@@ -4,8 +4,11 @@ Name: Lexi Shewchuk (ashewc01)
 
 ID: 1331654
 
-Time:
+Time: 25 hours? Not really sure, and a lot of that was spent waiting for models
+to run.
 
-Resources:
-
-Difficulties:
+Resources: I used a lot of sklearn documentation and some code tutorial
+websites when I ran into syntax bugs. I also really appreciated Professor
+Allen's lectures and code demos, they provided a lot of good advice for this
+project. Additionally, other student's questions on Piazza provided a lot
+of insight into things I should be looking out for.
